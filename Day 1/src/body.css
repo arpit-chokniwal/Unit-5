@@ -1,0 +1,15 @@
+#mainTable{
+    border: 1px solid coral;
+}
+th,td{
+    padding : 10px;
+    border: 1px solid cyan;
+
+}
+#inputDiv{
+    display: flex;
+    margin: 10px
+}
+.input{
+    padding : 10px
+}
