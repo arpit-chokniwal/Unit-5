@@ -1,0 +1,15 @@
+.main{
+    display: grid;
+    grid-template-columns: repeat(4,1fr);
+    width: 90%;
+    text-align: center;
+    margin-left: 5%;
+    border: 1px solid black;
+}
+.all{
+    border: 1px solid black;
+    margin: 2%;
+    text-align: left;
+    padding: 2%;
+    color: #131516;
+}

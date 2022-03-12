@@ -1,0 +1,12 @@
+{
+  "employe": [
+    {
+      "name": "Arpit Chokniwal",
+      "age": "19",
+      "address": "kota",
+      "department": "information technology",
+      "salary": "123456789",
+      "id": 1
+    }
+  ]
+}
