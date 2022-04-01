@@ -1,0 +1,103 @@
+{
+  "houses": [
+    {
+      "name": "arpit",
+      "ownerName": "gret",
+      "address": "trwet",
+      "areaCode": "653634",
+      "rent": "453654",
+      "bachelor": true,
+      "married": false,
+      "image": "",
+      "id": 1
+    },
+    {
+      "name": "arpit",
+      "ownerName": "gret",
+      "address": "trwet",
+      "areaCode": "65363454",
+      "rent": "45365423",
+      "bachelor": true,
+      "married": false,
+      "image": "",
+      "id": 2
+    },
+    {
+      "name": "arpit",
+      "ownerName": "gret",
+      "address": "trwet",
+      "areaCode": "54",
+      "rent": "5435",
+      "bachelor": true,
+      "married": false,
+      "image": "",
+      "id": 3
+    },
+    {
+      "name": "arpit",
+      "ownerName": "gret",
+      "address": "trwet",
+      "areaCode": "5454",
+      "rent": "5435452",
+      "bachelor": true,
+      "married": false,
+      "image": "",
+      "id": 4
+    },
+    {
+      "name": "arpit",
+      "ownerName": "gret",
+      "address": "trwet",
+      "areaCode": "5454",
+      "rent": "5435452",
+      "bachelor": true,
+      "married": true,
+      "image": "",
+      "id": 5
+    },
+    {
+      "name": "arpit",
+      "ownerName": "gret",
+      "address": "trwet",
+      "areaCode": "5454",
+      "rent": "54354525",
+      "bachelor": false,
+      "married": true,
+      "image": "",
+      "id": 6
+    },
+    {
+      "name": "vsaf",
+      "ownerName": "ggfdsg",
+      "address": "fdsgsfrt45",
+      "areaCode": "65436",
+      "rent": "653465",
+      "bachelor": true,
+      "married": false,
+      "image": "54363",
+      "id": 7
+    },
+    {
+      "name": "rtyrytry",
+      "ownerName": "hgdfd",
+      "address": "hgdfhh",
+      "areaCode": "212343343333333333333",
+      "rent": "33333333333333333",
+      "bachelor": true,
+      "married": false,
+      "image": "434",
+      "id": 8
+    },
+    {
+      "name": "rtyrytry",
+      "ownerName": "hgdfd",
+      "address": "hgdfhh",
+      "areaCode": "212343343333333333333",
+      "rent": "33333333333333333",
+      "bachelor": true,
+      "married": false,
+      "image": "434",
+      "id": 9
+    }
+  ]
+}
